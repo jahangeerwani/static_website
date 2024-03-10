@@ -17,6 +17,7 @@ Before proceeding, ensure you have the following:
 
 - An AWS account with appropriate permissions to create and manage S3 buckets, CodeBuild projects, CodePipeline pipelines, and IAM roles.
 - Basic knowledge of AWS services such as S3, CodeBuild, CodePipeline, and IAM.
+- Any website template or your website files. (We have used a template here downloaded from https://www.free-css.com/free-css-templates/page288/startup)
 
 ## Setup Instructions
 
