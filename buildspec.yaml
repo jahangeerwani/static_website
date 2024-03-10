@@ -1,0 +1,9 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      # Install AWS CLI
+      - npm install -g aws-cli
+
+      # Copy files to S3 bucket
+      - aws s3 sync . s3://your-bucket-name --delete
