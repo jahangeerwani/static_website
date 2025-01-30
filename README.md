@@ -1,4 +1,4 @@
-# Static Website Deployment on AWS S3 with CI/CD using AWS CodeBuild and CodePipeline
+# Static Website Deployment on AWS S3 with CI/CD using AWS CodeBuild and CodePipeline as CI-CD Tools with complete end to end integration
 
 ## Overview
 
